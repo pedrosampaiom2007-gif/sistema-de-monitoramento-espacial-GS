@@ -1,6 +1,3 @@
-## README.md
-
-```markdown
 # Mission Control AI — Projeto Brazil-space monitoring
 
 Sistema inteligente de monitoramento de missão espacial desenvolvido em Python.
@@ -33,15 +30,6 @@ O sistema analisa 6 ciclos de monitoramento, cada um contendo 5 parâmetros crí
 A cada ciclo, o sistema classifica automaticamente o estado de cada parâmetro, calcula o risco total do ciclo, gera recomendações e ao final exibe um relatório completo da missão.
 
 ---
-
-## Estrutura do repositório
-
-```
-mission-control-ai/
-│
-├── README.md
-└── mission_control.py
-```
 
 ---
 
@@ -144,4 +132,3 @@ Pontuação máxima por ciclo: 10 pontos (5 parâmetros x 2 pontos).
 | Ciclo 4 | Temperatura critica — sistemas fragilizados |
 | Ciclo 5 | Colapso de comunicação e energia — missão critica |
 | Ciclo 6 | Tentativa de recuperação parcial — sistemas ainda comprometidos |
-```
