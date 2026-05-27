@@ -1,7 +1,7 @@
 # Mission Control AI — Projeto Brazil-space monitoring
 
 Sistema inteligente de monitoramento de missão espacial desenvolvido em Python.
-Projeto da Global Solution 2026.1 — Pensamento Computacional e Automação com Python — FIAP.
+Projeto da Global Solution 2026.1 
 
 ---
 
@@ -30,6 +30,14 @@ O sistema analisa 6 ciclos de monitoramento, cada um contendo 5 parâmetros crí
 A cada ciclo, o sistema classifica automaticamente o estado de cada parâmetro, calcula o risco total do ciclo, gera recomendações e ao final exibe um relatório completo da missão.
 
 ---
+## Energias renováveis e sustentabilidade
+
+O monitoramento energético é um dos pilares centrais deste projeto. Em missões espaciais, a energia disponível é um recurso limitado e não renovável durante o voo — o que torna sua gestão inteligente essencial para a sustentabilidade da operação.
+
+O sistema monitora continuamente o nível de bateria de cada ciclo e emite alertas automáticos quando o consumo energético atinge níveis críticos. Quando a bateria cai abaixo de 20%, o sistema recomenda automaticamente a ativação do modo de economia de energia, reduzindo operações não essenciais para preservar os recursos disponíveis.
+
+Esse comportamento reflete diretamente os princípios de eficiência energética e uso sustentável de recursos aplicados ao contexto espacial, onde o desperdício de energia pode comprometer toda a missão. A tomada de decisão automatizada do sistema busca maximizar a vida útil dos sistemas energéticos, garantindo que a missão opere pelo maior tempo possível com os recursos disponíveis.
+
 
 ---
 
