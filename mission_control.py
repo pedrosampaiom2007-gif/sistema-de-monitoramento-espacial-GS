@@ -145,7 +145,7 @@ def gerar_recomendacao(status_temp, status_com, status_bat, status_ox, status_es
     if status_com == "CRÍTICO":
         recomendacoes.append("tentar restabelecer contato com a base")
     if status_bat == "CRÍTICO":
-        recomendacoes.append("ativar modo de economia de energia")
+        recomendacoes.append("ativar modo de economia e direcionar captação fotovoltaica para suporte à vida")
     if status_ox == "CRÍTICO":
         recomendacoes.append("acionar protocolo de suporte à vida")
     if status_est == "CRÍTICO":
